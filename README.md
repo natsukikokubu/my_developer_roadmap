@@ -2,8 +2,6 @@
 
 エンジニアになるための自己研鑽ロードマップです。
 
-# このRepositoryの見方
-
 | item | description |
 | ---- | ----------- |
 | [学習ロードマップ](https://github.com/users/natsukikokubu/projects/3) |　学習履歴をガントチャートで管理し、ロードマップ策定や進捗の管理に利用します。 |
