@@ -23,11 +23,19 @@
 * Webアプリケーションライブラリ/フレームワーク
   * React
   * Next.js
-  * Prisma
+  * Tailwind
+  * Prettier
+  * ESLint
+  * ORM(Prisma)
 * データベース
-  * RDB(MySQL or PostgresQL)
+  * RDB
 * インフラ
   * AWS
+* その他ツール
+  * GitHub
+  * CI
+  * Notion
+  * Slack
 
 具体的なタスクは[GitHub Project](https://github.com/users/natsukikokubu/projects/4/views/1)で一覧できます。
 
@@ -38,4 +46,4 @@
 
 ## 参考
 
-[Frontend Developer Roadmap: What is Frontend Development?](https://roadmap.sh/frontend)https://roadmap.sh/frontend
+[Frontend Developer Roadmap: What is Frontend Development?](https://roadmap.sh/frontend)
