@@ -29,14 +29,12 @@
 * インフラ
   * AWS
 
+具体的なタスクは[GitHub Project](https://github.com/users/natsukikokubu/projects/4/views/1)で一覧できます。
+
 ## ロードマップ
 
-[ロードマップ](https://github.com/users/natsukikokubu/projects/4/views/5)にて学習履歴をガントチャートで管理し、ロードマップ策定や進捗の管理に利用します。  
-実際にやる(やった)ことはこちらから確認できます。
+[ロードマップ](https://github.com/users/natsukikokubu/projects/4/views/5)にて学習履歴をガントチャートで管理し、スケジュールの策定に利用します。  
 
-## Wiki
-
-[Wiki](https://github.com/natsukikokubu/my_developer_roadmap/wiki)に各学習内容に関する詳細のメモなどを書きます。
 
 ## 参考
 
