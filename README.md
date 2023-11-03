@@ -15,11 +15,11 @@
   * 基本情報技術者試験
   * Git
   * CLI
+* マークアップ
+  * HTML/CSS
 * プログラミング
   * JavaScript
   * TypeScript
-* マークアップ
-  * HTML/CSS
 * Webアプリケーションライブラリ/フレームワーク
   * React
   * Next.js
@@ -31,7 +31,7 @@
 
 ## ロードマップ
 
-[ロードマップ](https://github.com/users/natsukikokubu/projects/3)にて学習履歴をガントチャートで管理し、ロードマップ策定や進捗の管理に利用します。  
+[ロードマップ](https://github.com/users/natsukikokubu/projects/4/views/5)にて学習履歴をガントチャートで管理し、ロードマップ策定や進捗の管理に利用します。  
 実際にやる(やった)ことはこちらから確認できます。
 
 ## Wiki
